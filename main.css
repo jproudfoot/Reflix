@@ -1,0 +1,14 @@
+html,body{margin:0;padding:0}
+
+.title {
+	color: white;
+	font-family: 'arial';
+	font-size: 10vw;
+}
+
+body {
+	background-image: url("http://cdn.static-economist.com/sites/default/files/images/articles/migrated/201018srp004.jpg");
+	background-size: cover;
+}
+
+.red {color: red;}
